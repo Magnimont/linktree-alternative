@@ -1,4 +1,4 @@
-# 🔗 Linktree-minimal-alternative
+# 🔗 Linktree-alternative
 
 [![Generic badge](https://img.shields.io/badge/BUILD-Success-<COLOR>.svg?logo=github)](https://github.com/Magnimont/linktree-minimal-alternative/deployments) [![Twitter URL](https://img.shields.io/twitter/follow/avalynndev)](https://twitter.com/avalynndev)
 
